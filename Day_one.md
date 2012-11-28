@@ -3,4 +3,4 @@ Title: Bonjour
 Category: Blog
 Tags: blogging, test
 
-![Alt text](./static/images/2012-11-27 21.50.53.jpg)
+![Alt text](./static/images/1.jpg)
