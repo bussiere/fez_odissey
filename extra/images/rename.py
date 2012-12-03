@@ -14,8 +14,19 @@ def resize(nomfi):
         print "cannot create thumbnail for '%s'" % nomfi
 
 def renamefile(nomfi,i):
-    os.rename(nomfi,"_0%d.jpg"%i)
-    nomfi = "_0%d.jpg"%i
+    print nomfi
+    print i
+    ok = False
+    prog2 = re.compile("^_0.*\.jpg")
+    result2 = prog2.match(nomfi)
+    if (not result2) :
+        while (not ok) :
+            try :
+                os.rename(nomfi,"_0%d.jpg"%i)
+                nomfi = "_0%d.jpg"%i
+                ok = True
+            except :
+                    i+= 1
     return nomfi
     
 
