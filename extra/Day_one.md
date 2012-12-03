@@ -10,6 +10,7 @@ Tags: fez,enigme,xbox,maj,Tableau 1
 
 Dans le genre penible apres avoir acheté la xbox, 
 il a fallu attendre 4 heures au moins avant de pouvoir jouer.
+
 Entre :
 
 * La mise a jour de la console.
