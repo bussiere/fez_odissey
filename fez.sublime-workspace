@@ -11,7 +11,7 @@
 			"file": "extra/README.md",
 			"settings":
 			{
-				"buffer_size": 367,
+				"buffer_size": 361,
 				"line_ending": "Unix"
 			}
 		},
@@ -19,9 +19,17 @@
 			"file": "extra/make.py",
 			"settings":
 			{
-				"buffer_size": 57,
+				"buffer_size": 128,
 				"line_ending": "Unix",
 				"name": "import os"
+			}
+		},
+		{
+			"file": "extra/Day_one.md",
+			"settings":
+			{
+				"buffer_size": 1364,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -170,7 +178,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -178,15 +186,15 @@
 					"file": "extra/README.md",
 					"settings":
 					{
-						"buffer_size": 367,
+						"buffer_size": 361,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								366,
-								366
+								361,
+								361
 							]
 						],
 						"settings":
@@ -204,15 +212,15 @@
 					"file": "extra/make.py",
 					"settings":
 					{
-						"buffer_size": 57,
+						"buffer_size": 128,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								21,
-								21
+								18,
+								18
 							]
 						],
 						"settings":
@@ -222,6 +230,32 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "extra/Day_one.md",
+					"settings":
+					{
+						"buffer_size": 1364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								710,
+								710
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -289,6 +323,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 533.0,
+	"side_bar_width": 205.0,
 	"status_bar_visible": true
 }
