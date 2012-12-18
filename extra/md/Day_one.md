@@ -10,17 +10,6 @@ Tags: fez,enigme,xbox,maj,Tableau 1
 
 Dans le genre penible apres avoir acheté la xbox, 
 il a fallu attendre 4 heures au moins avant de pouvoir jouer.
-
-Entre :
-
-=======
-[0]: images/_00.jpg  "Grande Version"
-[1]: images/_01.jpg  "Grande Version"
-[2]: images/_02.jpg  "Grande Version"
-[3]: images/_03.jpg  "Grande Version"
-
-Dans le genre penible apres avoir acheté la xbox, 
-il a fallu attendre 4 heures au moins avant de pouvoir jouer.
 Entre :
 * La mise a jour de la console.
 * Profil obligatoire pour rentrer les microsofts points.
@@ -38,11 +27,3 @@ Visiblement il faut se poser a certains endroits a certains moments :
 Des cryptogrammes etranges que l'on voit dans le tableau 1, du morse ?
 
 [![Endroit 4](http://raw.github.com/bussiere/fez_odissey/gh-pages/static/images/_03_thumb.jpg)] [3] 
-=======
-[![Endroit 1](images/_00_thumb.jpg)] [0] 
-[![Endroit 2](images/_01_thumb.jpg)] [1] 
-[![Endroit 3](images/_02_thumb.jpg)] [2] 
-
-Des cryptogrammes etranges que l'on voit dans le tableau 1, du morse ?
-
-[![Endroit 4](images/_03_thumb.jpg)] [3] 
